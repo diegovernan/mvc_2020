@@ -8,8 +8,9 @@ $ composer install
 
 ## Configuração
 
-Configurar arquivo `src/onfig.php`
-> const BASE_DIR = '/**PastaDoProjeto**/public';
+Importar arquivo `mvc-2020.sql`
+
+Configurar arquivo `src/Config.php`
 
 ## Utilização
-Acessar `localhost/**PastaDoProjeto**/public`
+Acessar `localhost/mvc-2020/public`
