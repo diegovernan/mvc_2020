@@ -1,6 +1,6 @@
-# MVC -2020
+# MVC - 2020
 
-## Instalação
+## Instalação (localhost)
 Clonar o projeto
 ```bash
 $ git clone git@github.com:diegovernan/mvc_2020.git
