@@ -3,6 +3,11 @@
 ## Instalação
 Clonar o projeto
 ```bash
+$ git clone git@github.com:diegovernan/mvc_2020.git
+```
+
+Instalar composer
+```bash
 $ composer install
 ```
 
