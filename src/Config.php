@@ -6,6 +6,7 @@ class Config {
 
     const DB_DRIVER = 'mysql';
     const DB_HOST = 'localhost';
+    const DB_CHARSET = 'utf8mb4';
     const DB_DATABASE = 'mvc-2020';
     const DB_USER = 'root';
     const DB_PASS = 'root';
