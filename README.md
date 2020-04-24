@@ -19,3 +19,5 @@ Configurar arquivo `src/Config.php`
 
 ## Utilização
 Acessar `localhost/mvc-2020/public`
+
+> Documentação da Query Builder [aqui](https://github.com/ClanCats/Hydrahon)
